@@ -1,4 +1,4 @@
-# 信念驅動的決策建模系統（Belief-Driven Decision Modeling System）
+# 信念驅動的決策模型（Belief-Driven Decision Modeling System）
 > 商業預測 × 風險評估 × 行為建模
 本專案模擬200位虛擬員工在不確定市場環境中的投資決策表現，
 > 結合 GLM、ANOVA 與自動化報告產出，適用於 行為經濟與風控相關分析應用。
