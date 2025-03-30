@@ -30,9 +30,12 @@
 belief-decision-model/
 ├── README.md                        # 本說明文件
 ├── data
+
 ├── reports/
 │   └── behavior_risk_report.md     # 自動產生的報告（含圖表）
+
 ├── results/
 │   └── investment_behavior_analysis.png  # 投資行為圖
+
 ├── scripts/
 │   └── belief_revision_modeling.m  # 主程式含所有模型
