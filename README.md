@@ -5,7 +5,7 @@
 
 ---
 
-## 🧠｜Project Overview
+## Project Overview
 
 此系統從以下三個面向建構「風險行為模型」：
 
@@ -39,3 +39,9 @@ belief-decision-model/
 
 ├── scripts/
 │   └── belief_revision_modeling.m  # 主程式含所有模型
+
+
+## Reference
+- Massey & Wu (2005). *Detecting Regime Shifts*. Management Science, 51(6), 932-947.
+- Kahneman & Tversky (1979). *Prospect Theory: An Analysis of Decision under Risk.*
+
